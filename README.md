@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yalamanchali Dinesh Kumar
 - 👀 I’m interested in Acquiring knowledge on technology
 - 🌱 I’m currently learning Full Stack Develpment
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dineshdinesh036@gmail.com
 
 <!---
